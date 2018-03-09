@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Drew/Library/Android/vuforia-sdk-android-7-0-50/samples/Vuforia-ImageTarget/app/build/intermediates/res/merged/release/anim/bottom_down.xml",
+        "source": "/Users/Drew/Library/Android/vuforia-sdk-android-7-0-50/samples/Vuforia-ImageTarget/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/Users/Drew/Library/Android/vuforia-sdk-android-7-0-50/samples/Vuforia-ImageTarget/app/build/intermediates/res/merged/release/anim/bottom_up.xml",
+        "source": "/Users/Drew/Library/Android/vuforia-sdk-android-7-0-50/samples/Vuforia-ImageTarget/app/src/main/res/anim/bottom_up.xml"
+    }
+]

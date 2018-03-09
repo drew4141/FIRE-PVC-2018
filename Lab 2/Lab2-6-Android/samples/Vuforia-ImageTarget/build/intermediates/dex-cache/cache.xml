@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Drew/Library/Android/vuforia-sdk-android-7-0-50/build/java/vuforia/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fad278a44e32a4c9166830e21a41b386819184b">
+        <dex dex="/Users/Drew/Library/Android/vuforia-sdk-android-7-0-50/samples/Vuforia-ImageTarget/app/build/intermediates/pre-dexed/debug/Vuforia_559b4f35f7d05f0d38effef623df3b9ab566107d.jar" />
+    </item>
+
+</items>
